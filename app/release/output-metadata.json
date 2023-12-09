@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.app.myapplication",
+  "applicationId": "com.app.canteenmenu",
   "variantName": "release",
   "elements": [
     {

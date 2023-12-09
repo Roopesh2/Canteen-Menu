@@ -1,4 +1,4 @@
-package com.app.myapplication
+package com.app.canteenmenu
 
 import android.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-	namespace = "com.app.myapplication"
+	namespace = "com.app.canteenmenu"
 	compileSdk = 34
 
 	defaultConfig {
-		applicationId = "com.app.myapplication"
+		applicationId = "com.app.canteenmenu"
 		minSdk = 24
 		targetSdk = 34
 		versionCode = 1
